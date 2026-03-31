@@ -1,4 +1,4 @@
-# Hey, I'm Nihaal 👋
+# Hi, I'm Nihaal 👋
 
 ### CS Student @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
@@ -28,9 +28,9 @@ I'm a 3rd-year Computer Science student passionate about building intelligent sy
 ---
 
 ## 📈 GitHub Stats
+  
 
-![Nihaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihaal237&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaal237&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nihaal237&hide_border=true)
 
 ---
 
