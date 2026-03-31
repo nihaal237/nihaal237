@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nihaal 👋
 
-<!--
-**nihaal237/nihaal237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CS Student @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Science student passionate about building intelligent systems and practical applications. Currently exploring Reinforcement Learning for code repair and cross-platform mobile/web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · C/C++ · Dart · JavaScript · Assembly (8088)  
+**Frameworks:** Flutter · React.js · Django · Tailwind CSS  
+**AI/ML:** Reinforcement Learning · Fine-tuning LLMs · Supervised & Unsupervised Learning  
+**Databases:** SQL Server · SQLite · MongoDB  
+**Tools:** Git · Google Colab · VS Code
+
+---
+
+## 🚀 Featured Projects<img width="1440" height="2782" alt="image" src="https://github.com/user-attachments/assets/f38d207c-604e-4190-a695-273fcd8139f9" />
+
+| Project | Stack | Description |
+|---|---|---|
+| [SLMFix](https://github.com/nihaal237/SLMFix) | Python · RL | Automated code repair using Small LLMs fine-tuned with Reinforcement Learning |
+| [Neighbornet](https://github.com/nihaal237/Neighbornet) | Flutter · Django · SQLite | Community safety & complaint platform |
+| [Amanah](https://github.com/nihaal237/Amanah) | Flutter · Django · MongoDB | Islamic guidance companion app |
+| [Flashmart](https://github.com/nihaal237/Flashmart) | React.js · Tailwind · SQL | Full-stack online grocery store |
+
+---
+
+## 📈 GitHub Stats
+
+![Nihaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihaal237&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaal237&layout=compact&hide_border=true)
+
+---
+
+## 🏆 Achievements
+
+- 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025 (SGPAs: 3.52, 3.61, 3.59)
+- 📚 CGPA: **3.42** at FAST-NUCES Lahore
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihaal--durrani-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/nihaal-durrani](https://www.linkedin.com/in/nihaal-durrani-0a220a24b/))
+[![Gmail](https://img.shields.io/badge/Gmail-nihaaldurrani@gmail.com-red?style=flat&logo=gmail)](mailto:nihaaldurrani@gmail.com)
