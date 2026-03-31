@@ -1,4 +1,4 @@
-# Hi, I'm Nihaal 👋
+# Hey, I'm Nihaal 👋
 
 ### CS Student @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
@@ -16,7 +16,7 @@ I'm a 3rd-year Computer Science student passionate about building intelligent sy
 
 ---
 
-## 🚀 Featured Projects<img width="1440" height="2782" alt="image" src="https://github.com/user-attachments/assets/f38d207c-604e-4190-a695-273fcd8139f9" />
+## 🚀 Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -43,5 +43,5 @@ I'm a 3rd-year Computer Science student passionate about building intelligent sy
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihaal--durrani-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/nihaal-durrani](https://www.linkedin.com/in/nihaal-durrani-0a220a24b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihaal--durrani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nihaal-durrani-0a220a24b/)
 [![Gmail](https://img.shields.io/badge/Gmail-nihaaldurrani@gmail.com-red?style=flat&logo=gmail)](mailto:nihaaldurrani@gmail.com)
