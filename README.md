@@ -1,6 +1,6 @@
 # Hi, I'm Nihaal 👋
 
-### CS Student @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
+### CS Undergrad @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
 I'm a 3rd-year Computer Science student passionate about building intelligent systems and practical applications. Currently exploring Reinforcement Learning for code repair and cross-platform mobile/web development.
 
