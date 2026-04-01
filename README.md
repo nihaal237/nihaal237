@@ -59,7 +59,6 @@ I'm a 3rd-year Computer Science student passionate about building intelligent sy
 ## 🏆 Achievements
 
 - 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025 (SGPAs: 3.52, 3.61, 3.59)
-- 📚 **CGPA: 3.42** at FAST-NUCES Lahore
 
 ---
 
