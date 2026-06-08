@@ -2,7 +2,7 @@
 
 ### CS Undergrad @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
-I'm a 3rd-year Computer Science student passionate about building intelligent systems and practical applications. Currently exploring Reinforcement Learning for code repair and cross-platform mobile/web development.
+I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Reinforcement Learning for code repair and cross-platform mobile/web development.
 
 ---
 
@@ -50,7 +50,7 @@ I'm a 3rd-year Computer Science student passionate about building intelligent sy
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nihaal237&hide_border=true)
 
