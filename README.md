@@ -58,7 +58,7 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 ## 🏆 Achievements
 
-- 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025 (SGPAs: 3.52, 3.61, 3.59)
+- 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025, Spring 2026 (SGPAs: 3.52, 3.61, 3.59, 3.72)
 
 ---
 
