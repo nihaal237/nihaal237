@@ -13,6 +13,7 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logoColor=white)
 
 **Frameworks:**  
@@ -23,7 +24,11 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 **AI/ML:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-007ACC?style=flat&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 **Databases:**  
