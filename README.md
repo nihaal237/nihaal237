@@ -30,7 +30,6 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-007ACC?style=flat&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 
@@ -41,6 +40,7 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
