@@ -2,7 +2,7 @@
 
 ### CS Undergrad @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
-I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Reinforcement Learning for code repair and cross-platform mobile/web development.
+I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring different AI/ML libraries as part of my internship at NETSOL such as LangChain and LangGraph while working on single and multi-agent systems.
 
 ---
 
