@@ -61,9 +61,16 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 ---
 
-## 🐍 Contribution Graph
+## 🌱 Currently Working On
 
-![Snake animation](https://raw.githubusercontent.com/nihaal237/nihaal237/output/github-contribution-grid-snake-dark.svg)
+- 🤖 Adaptive RAG Agents
+- 💊 AI for Drug Repurposing
+- 🧠 Multimodal AI Systems
+- ⚡ LangGraph Workflows
+- 📚 Retrieval-Augmented Generation (RAG)
+
+---
+
 ## 🏆 Achievements
 
 - 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025, Spring 2026 (SGPAs: 3.52, 3.61, 3.59, 3.72)
