@@ -61,9 +61,9 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihaal237&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaal237&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
