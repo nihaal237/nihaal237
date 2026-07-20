@@ -61,9 +61,9 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nihaal237&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihaal237&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
