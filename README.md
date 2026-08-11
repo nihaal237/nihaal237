@@ -2,7 +2,7 @@
 
 ### CS Undergrad @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
-I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring different AI/ML libraries as part of my internship at NETSOL such as LangChain and LangGraph while working on single and multi-agent systems.
+I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Agentic AI as part of my internship at NETSOL, working with frameworks such as LangChain and LangGraph and experimenting with single and multi-agent architectures.
 
 ---
 
@@ -60,11 +60,13 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 
 ## 🌱 Currently Working On
 
-- 🤖 Adaptive RAG Agents
-- 💊 AI for Drug Repurposing
-- 🧠 Multimodal AI Systems
-- ⚡ LangGraph Workflows
-- 📚 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI & AI Agents
+- 🔄 Single- & Multi-Agent Systems
+- ⚡ LangChain & LangGraph
+- 🛠️ Tool Calling & Function Calling
+- 🧠 Agent Memory & Context Management
+- 🔗 Agentic RAG & Retrieval Workflows
+- 📊 Agent Evaluation & Observability
 
 ---
 
