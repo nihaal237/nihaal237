@@ -30,6 +30,7 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat&logo=crewai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-FFB000?style=flat&logoColor=white)
 ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-4B0082?style=flat&logoColor=white)
