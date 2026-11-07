@@ -2,7 +2,7 @@
 
 ### CS Senior @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
 
-I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Agentic AI as part of my internship at NETSOL, working with frameworks such as LangChain and LangGraph and experimenting with single and multi-agent architectures.
+I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Agentic AI, working with frameworks such as LangChain and LangGraph and experimenting with single and multi-agent architectures.
 
 ---
 
