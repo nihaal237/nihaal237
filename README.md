@@ -36,10 +36,6 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 ![Databases](https://skillicons.dev/icons?i=mongodb,sqlite&perline=10)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Document Processing**  
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-000000?style=flat&logoColor=white)
-
 **MLOps**  
 ![MLOps](https://skillicons.dev/icons?i=docker&perline=10)  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
