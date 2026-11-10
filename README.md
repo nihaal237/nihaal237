@@ -1,10 +1,13 @@
-# Hi, I'm Nihaal 👋
+<div align="center">
 
-### CS Senior @ FAST-NUCES Lahore · AI/ML & Full-Stack Developer
+![Nihaal Durrani](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Nihaal&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
-I'm a Computer Science Senior passionate about building intelligent systems and practical applications. Currently exploring Agentic AI, working with frameworks such as LangChain and LangGraph and experimenting with single and multi-agent architectures.
+**Computer Science Senior at FAST-NUCES Lahore**
+
+</div>
 
 ---
+
 ## 🛠 Tech Stack
 
 **Languages**  
