@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Nihaal+Durrsni" alt="Nihaal Durrsni" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Nihaal+Durrsni" alt="Nihaal Durrani" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=500&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Computer+Science+Senior+at+FAST-NUCES+Lahore" alt="Computer Science Senior at FAST-NUCES Lahore" />
 
@@ -54,18 +54,15 @@
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Current Focus
 
-- 🤖 Agentic AI & AI Agents
-- 🔄 Single- & Multi-Agent Systems
-- ⚡ LangChain & LangGraph
-- 🛠️ Tool Calling & Function Calling
-- 🧠 Agent Memory & Context Management
-- 🔗 Agentic RAG & Retrieval Workflows
-- 📊 Agent Evaluation & Observability
+- **Agent architectures:** single and multi-agent systems with LangChain and LangGraph
+- **Tool and function calling:** agents that interact with external tools and APIs
+- **Memory and context management:** keeping agents coherent across long tasks
+- **Agentic RAG:** retrieval workflows driven by agent decisions
+- **Evaluation and observability:** measuring and debugging agent behavior
 
 ---
-
 ## 🏆 Achievements
 
 - 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025, Spring 2026 
