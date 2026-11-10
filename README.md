@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Nihaal+Durrsni" alt="Nihaal Durrani" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Nihaal+Durrani" alt="Nihaal Durrani" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=500&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Computer+Science+Senior+at+FAST-NUCES+Lahore" alt="Computer Science Senior at FAST-NUCES Lahore" />
 
@@ -56,19 +56,29 @@
 
 ## 🌱 Current Focus
 
-- **Agent architectures:** single and multi-agent systems with LangChain and LangGraph
+Building agentic AI systems with an emphasis on reliability, memory, and measurable performance.
+
+- **Agent architectures:** single- and multi-agent systems with LangChain and LangGraph
 - **Tool and function calling:** agents that interact with external tools and APIs
 - **Memory and context management:** keeping agents coherent across long tasks
 - **Agentic RAG:** retrieval workflows driven by agent decisions
 - **Evaluation and observability:** measuring and debugging agent behavior
 
 ---
+
 ## 🏆 Achievements
 
-- 🎓 **Dean's List** — Spring 2024, Fall 2024, Spring 2025, Spring 2026 
+- 🎓 **Dean's List** at FAST-NUCES Lahore: Spring 2024, Fall 2024, Spring 2025, Spring 2026
+
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihaal--durrani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nihaal-durrani-0a220a24b/)
-[![Gmail](https://img.shields.io/badge/Gmail-nihaaldurrani@gmail.com-red?style=flat&logo=gmail)](mailto:nihaaldurrani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihaal_Durrani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihaal-durrani-0a220a24b/)
+[![Email](https://img.shields.io/badge/Email-nihaaldurrani@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nihaaldurrani@gmail.com)
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=100&section=footer" width="100%" alt="" />
+</div>
