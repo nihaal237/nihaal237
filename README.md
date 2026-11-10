@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nihaal Durrani](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Nihaal&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Nihaal" alt="Nihaal" />
 
 **Computer Science Senior at FAST-NUCES Lahore**
 
