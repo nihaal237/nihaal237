@@ -52,10 +52,28 @@ I'm a Computer Science Senior passionate about building intelligent systems and 
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-000000?style=flat&logoColor=white)
 
+**MLOps:**  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF6B35?style=flat&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=py,cpp,dart,js,ts&perline=10)
+
+**Frameworks**  
+![Frameworks](https://skillicons.dev/icons?i=flutter,react,django,fastapi,flask,tailwind,vite&perline=10)
+
+**Databases & Tools**  
+![Tools](https://skillicons.dev/icons?i=mongodb,sqlite,git,docker,vscode&perline=10)
 
 ---
 
